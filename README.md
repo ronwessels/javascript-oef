@@ -1,2 +1,2 @@
 # javascript-oef
-Oefen omgeving voor javascript scripts
+Oefen omgeving voor javascripts die ik deel met mijn leerlingen.
